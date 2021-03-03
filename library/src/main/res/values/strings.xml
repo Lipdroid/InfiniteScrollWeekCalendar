@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CallenderDemoHinatabo</string>
+    <string name="default_year_month">yyyy年mm月</string>
+    <string name="sunday">SUN</string>
+    <string name="saturday">SAT</string>
+    <string name="friday">FRI</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="thursday">THR</string>
+    <string name="wednesday">WED</string>
+    <string name="gotonextmonth">goToNextMonth</string>
+    <string name="gotopreviousmonth">goToPreviousMonth</string>
+</resources>
