@@ -3,7 +3,8 @@ Scroll calendar days infinitely in a vertical column in weekly view
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/emcthye/VerticalCalendar/blob/master/LICENSE)
 
-![](app/demo.gif)
+<img src="screenshots/screenshot1.png" width="400">
+
 
 ## Installation
 
